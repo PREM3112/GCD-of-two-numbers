@@ -8,10 +8,12 @@ To write a program to find the GCD of two numbers using function.
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
 
 ## Algorithm
-1. Define a function.
-2. Get the two numbers from the user.
-3. Compare the two values, to find the smaller number.
-4. Use for() and if() loop to find the GCD of the two numbers.
+1. import math function.
+2. define the function.
+3.Get the two numbers from the user. 
+4. use math.gcd function.
+5. print the value
+6. run the program.
 
 ## Program:
 ```
@@ -30,7 +32,8 @@ def gcd():
 
 ## Output:
 ![gcd of two number](gcd.png)
-![Screenshot 2023-11-28 132621](https://github.com/PREM3112/GCD-of-two-numbers/assets/145449383/7bf867f7-bd6e-4b0b-9a7a-76d0e342e13d)
+![Screenshot 2023-11-28 132550](https://github.com/PREM3112/GCD-of-two-numbers/assets/145449383/0611c12b-920f-4c2c-a474-a2b16f9a63d4)
+
 
 
 ## Result:
